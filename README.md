@@ -1,2 +1,2 @@
 # MeHue
-A learning project on Android Development and Vietnamese Dialects, in particular that of Hue/central Vietnam
+A learning project on Web Development and Vietnamese Dialects, in particular that of Hue/central Vietnam
