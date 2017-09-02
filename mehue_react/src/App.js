@@ -12,26 +12,10 @@ class App extends React.Component {
           </h2>
         </div>
         <p className="App-intro">
-          I will make more progress next Saturday. I spent more time on fixing
-          up my entire Trello board ~ Lena, 19th of August 2017
+          I will make serious progress next Saturday. I'm taking a break from developing for this week. ~ Lena, 2nd of September 2017
         </p>
         <hr />
-
-        <table class="center">
-          <tr class="dialects">
-          <th class="start">English Translation</th>
-            <th class="start">North</th>
-            <th class="start">Central</th>
-            <th class="start">South</th>
-          </tr>
-
-          <tr>
-            <td class="start">This</td>
-            <td>này</td>
-            <td>ni</td>
-            <td>này</td>
-          </tr>
-        </table>
+        Notes: The table I added before wasn't compliant with ReactJS. I will add a table with three columns to represent the three parts of Vietnam.
       </div>
     );
   }
