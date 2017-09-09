@@ -22,5 +22,7 @@ p {
   font-family: 'faustina', serif;
 }
 
-
+BootstrapTable {
+  align-self: center;
+}
 
